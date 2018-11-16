@@ -1,0 +1,10 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+*.sqlite
+/1 - PROJETO/.vs/SosDentes/v15/Server/sqlite3
+/1 - PROJETO/SosDentes/bin
+/1 - PROJETO/SosDentes/obj
+/.vs
+*.suo
